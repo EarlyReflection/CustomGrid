@@ -11,6 +11,7 @@
 		D1B61CB929BE47BC00E83359 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1B61CB829BE47BC00E83359 /* ContentView.swift */; };
 		D1B61CBB29BE47BE00E83359 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D1B61CBA29BE47BE00E83359 /* Assets.xcassets */; };
 		D1B61CBE29BE47BE00E83359 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D1B61CBD29BE47BE00E83359 /* Preview Assets.xcassets */; };
+		D1B61CC729BE487D00E83359 /* CustomGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1B61CC629BE487D00E83359 /* CustomGridView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		D1B61CB829BE47BC00E83359 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D1B61CBA29BE47BE00E83359 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D1B61CBD29BE47BE00E83359 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D1B61CC629BE487D00E83359 /* CustomGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomGridView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				D1B61CB629BE47BC00E83359 /* CustomGridApp.swift */,
 				D1B61CB829BE47BC00E83359 /* ContentView.swift */,
+				D1B61CC629BE487D00E83359 /* CustomGridView.swift */,
 				D1B61CBA29BE47BE00E83359 /* Assets.xcassets */,
 				D1B61CBC29BE47BE00E83359 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D1B61CC729BE487D00E83359 /* CustomGridView.swift in Sources */,
 				D1B61CB929BE47BC00E83359 /* ContentView.swift in Sources */,
 				D1B61CB729BE47BC00E83359 /* CustomGridApp.swift in Sources */,
 			);
